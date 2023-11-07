@@ -2,5 +2,5 @@ Hey Everyone!!
 
 This is my Resume HTML file.
 
-Thanks & Regards
+Thanks & Regards,
 Pranjal Jain
